@@ -130,6 +130,17 @@ The <span style="color: #E63946;">**CPC Drive Suite app**</span> provides a live
 
 ---
 
+## <span style="color: #E63946;">App UI Demo</span>
+
+<video width="100%" controls>
+  <source src="app-ui-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<span style="color: #000000;">Watch the CPC Drive Suite app in action with live parameter adjustment and real-time camera effect feedback.</span>
+
+---
+
 ## <span style="color: #E63946;">Technical Specifications</span>
 
 - <span style="color: #000000;">**Configuration Storage:** Shared between app and backend via `cpc-drive-suite-v1` storage path</span>
